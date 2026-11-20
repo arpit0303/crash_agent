@@ -1,0 +1,6 @@
+.env
+.adk/
+*.json
+*.pem
+__pycache__/
+repositories/
